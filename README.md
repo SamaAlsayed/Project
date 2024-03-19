@@ -10,9 +10,7 @@ Promote Local Products: The app aims to raise awareness about locally produced g
 
 Support Economic Growth: By promoting local products, the app contributes to the growth of local industries and reduces reliance on imports, thus strengthening the economy.
 
-Environmental Impact: 
-
-Choosing local products over imported ones can reduce the carbon footprint associated with transportation and support sustainable practices in local production.
+Environmental Impact: Choosing local products over imported ones can reduce the carbon footprint associated with transportation and support sustainable practices in local production.
 
 Project Proposal
 

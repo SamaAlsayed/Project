@@ -74,4 +74,5 @@ Testing: Conduct thorough testing to ensure the app functions as expected and is
 Deployment: Deploy the app to a hosting service for public access.
 
 Prototype: https://www.figma.com/file/yXCnlktsx5Z6dTd68NrgAS/Untitled?type=design&node-id=0%3A1&mode=design&t=VxXLRhgUMF0Uf9kf-1
+presentation: https://myudst-my.sharepoint.com/:p:/r/personal/60101020_udst_edu_qa/Documents/project%20Group%207.pptx?d=wd1df7e9b48304a4ca21786983d490c00&csf=1&web=1&e=g5mq6M
 

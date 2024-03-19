@@ -14,6 +14,11 @@ Environmental Impact:
 
 Choosing local products over imported ones can reduce the carbon footprint associated with transportation and support sustainable practices in local production.
 
+Project Proposal
+
+Goal Alignment: The app aligns with Qatar's National Development Strategy goal of Sustainable Economic Growth by promoting the consumption of local products. This supports the development of specialized economic clusters and contributes to the goal of achieving significant improvements in labor productivity and foreign direct investment.
+
+Societal Impact: The app aims to raise awareness about the availability and benefits of local products, supporting local producers and enhancing food security in Qatar. By encouraging the consumption of local products, the app contributes to the sustainability of the local economy and reduces reliance on imports.
 Features
 
 Product Listings: Display a list of local products in the categories of dairies, beverages, and snacks, along with their foreign counterparts and information about where to find them.
@@ -33,6 +38,30 @@ Backend: No backend is required as the app will fetch data from a static databas
 Data Management: Local product information will be managed in a structured format (e.g., JSON) and loaded dynamically into the app.
 
 Deployment: The app will be deployed to a hosting service (e.g., GitHub Pages, Netlify) for public access.
+
+
+Project Plan
+
+Roles
+
+Project Manager: Oversees the project and ensures that it stays on track with the timeline and requirements.
+Frontend Developer: Responsible for developing the user interface using React and ensuring a seamless user experience.
+UI/UX Designer: Designs the app's interface, focusing on usability and visual appeal.
+
+Timeline
+
+Week 1-2: Project planning and requirements gathering.
+Week 3-4: Frontend development and UI/UX design.
+Week 5-6: Backend development and integration.
+Week 7: Testing and quality assurance.
+Week 8: Deployment and final adjustments.
+
+Requirements
+
+Frontend: React, HTML, CSS, JavaScript.
+Backend: Node.js, Express.js, MongoD.
+Tools: GitHub.
+
 
 Development Process
 

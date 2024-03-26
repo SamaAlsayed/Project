@@ -101,4 +101,4 @@ const styles = StyleSheet.create({
     color: 'black',
     marginBottom: 150
   }
-});
+})
